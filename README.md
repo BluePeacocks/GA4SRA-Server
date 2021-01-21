@@ -1,3 +1,3 @@
 # Credits
-Vyond
-PoleyMagik for GoAnimate Ripper
+Vyond for the assets
+poleymagik for goanimate ripper
